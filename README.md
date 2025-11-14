@@ -1,4 +1,4 @@
-# EXAMEN FINAL FEB-MAR 2025 INCOMPLETOS
+# EXAMEN FINAL SIMULADOR 2025 INTENSIVO
 # REGULAR INCOMPLETO
 ## TODAS LAS TECNICATURAS
 
@@ -93,7 +93,7 @@ _Debes respetar la siguiente consigna_
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
-      # EXAMEN FINAL FEB/MARZ-25
+      # EXAMEN SIMULADOR INTENSIVO-2025
       # REGULAR INCOMPLETO
       ## TODAS LAS TECNICATURAS
       
@@ -114,4 +114,4 @@ _Debes respetar la siguiente consigna_
       ```
  
  **Paso 7:** Copiar y pegar el link del repositorio Github en en siguiente formulario
-    * [[Pulsa aquí para completar el formulario](https://forms.gle/xb3JS78u9NH6523r7)]
+    * [[Pulsa aquí para completar el formulario](https://forms.gle/RHp4snME6uQnpHjZ9)]
